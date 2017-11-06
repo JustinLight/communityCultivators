@@ -5,3 +5,12 @@
 .roboto {
 	font-family: 'Roboto', sans-serif;
 }
+
+.lettuce {
+	background-image: url(../img/ccLettuce.jpg);
+	height: 90.5%;
+	background-size: cover;
+	background-position: center;
+
+}
+
