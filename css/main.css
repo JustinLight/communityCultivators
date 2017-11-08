@@ -7,10 +7,26 @@
 }
 
 .lettuce {
-	background-image: url(../img/ccLettuce.jpg);
-	height: 90.5%;
+
+	background-image: linear-gradient(rgba(96, 57, 19, 0.8), rgba(96, 57, 19, 0.8)), url(../img/ccLettuce.jpg);
+	background-color: #010101;
+	height: calc(100% - 56px);
 	background-size: cover;
 	background-position: center;
 
 }
 
+.tagline {
+	color: #fafafa;
+
+}
+
+
+nav {
+	background-color: #697733;
+	color: #000;
+}
+
+.navFix {
+	margin-top: 56px;
+}
