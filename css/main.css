@@ -43,3 +43,23 @@ button {
 	background-color: #603913;
 	color: white;
 }
+
+.contact {
+	max-width: 75%;
+}
+
+
+#lettuceImg {
+	background: linear-gradient(rgba(96, 57, 19, 0.7), rgba(96, 57, 19, 0.7)),
+	url(../img/ccLettuce.jpg) no-repeat center center fixed;
+}
+
+#flowerImg {
+	background: linear-gradient(rgba(96, 57, 19, 0.4), rgba(96, 57, 19, 0.4)),
+	url(../img/flower.jpg) no-repeat center center fixed;
+}
+
+#tulipImg {
+	background: linear-gradient(rgba(96, 57, 19, 0.4), rgba(96, 57, 19, 0.4)),
+	url(../img/tulipField.jpg) no-repeat center center fixed;
+}
